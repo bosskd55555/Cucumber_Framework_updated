@@ -1,0 +1,29 @@
+[INFO ] 2020-06-28 11:39:20.065 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:39:28.610 [main] TestBase -  chrome browser opened
+[INFO ] 2020-06-28 11:39:42.256 [main] TestBase - URL opened
+[INFO ] 2020-06-28 11:39:50.269 [main] TestBase - initialization complete
+[INFO ] 2020-06-28 11:39:50.290 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:39:50.400 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-28 11:39:50.431 [main] TestBase - Title verified
+[INFO ] 2020-06-28 11:39:50.447 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:39:50.447 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-28 11:39:51.920 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:39:51.926 [main] TestBase - username and password entered
+[INFO ] 2020-06-28 11:39:51.948 [main] TestBase - Title of homepage verified
+[INFO ] 2020-06-28 11:39:51.960 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:39:54.435 [main] TestBase - URL opened
+[INFO ] 2020-06-28 11:40:02.453 [main] TestBase - initialization complete
+[INFO ] 2020-06-28 11:40:02.456 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:40:02.456 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-28 11:40:02.534 [main] TestBase - Title verified
+[INFO ] 2020-06-28 11:40:02.534 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:40:02.534 [main] TestBase - Login page driver initialized
+[INFO ] 2020-06-28 11:40:03.992 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:40:03.994 [main] TestBase - username and password entered
+[INFO ] 2020-06-28 11:40:04.003 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:40:04.005 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 11:40:13.330 [main] TestBase - Log out from the application
+[INFO ] 2020-06-28 12:10:01.410 [main] TestBase - Property file loaded
+[INFO ] 2020-06-28 12:10:01.508 [main] TestBase - Property file loaded
+[INFO ] 2020-06-30 11:36:44.920 [main] TestBase - Property file loaded
+[INFO ] 2020-06-30 11:36:45.032 [main] TestBase - Property file loaded
